@@ -139,7 +139,7 @@ section{
     align-items:center;
     justify-content:center;
     padding:120px 20px 60px;
-    background-image:url("../img/font1.png");
+    background-image:url('font1.png');
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
