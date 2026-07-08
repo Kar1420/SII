@@ -129,7 +129,7 @@ section{
     font-size:2.2rem;color:var(--secondary);
 }
 .section1 {
-     background-image: url('font1.png'); /* ← Prueba primero esta ruta */
+     background-image: url("font1.png"); /* ← Prueba primero esta ruta */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
